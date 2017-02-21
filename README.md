@@ -19,7 +19,7 @@ More about the database: [About GRAZ-02](http://www.emt.tugraz.at/~pinz/data/GRA
 * Classfier.m (SVM Classifier Training & Recognition Quality Computation)
   * multisvm.m (Extend Matlab SVM toolbox to support multigroups SVM training)
 
-### Controle Flags
+### Control Flags
 
 * main.m
   * calculate_kdp_flag (Set to 1 for first time run, and set to 0 if not needed.)
