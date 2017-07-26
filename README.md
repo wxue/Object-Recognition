@@ -2,8 +2,6 @@
 
 ### About
 
-> This is a contest project I practiced on [Professor Hua's](http://www.cs.stevens.edu/~ghua/) 2014 Spring [Computer Vision Class ](http://www.cs.stevens.edu/~ghua/ghweb/Teaching/CS558Spring2014.htm) at Stevens Institute of Technology.
-
 ### Data Set
 
 This object recognition project was trained and tested by the database: [GRAZ-02 database](http://www.emt.tugraz.at/~pinz/data/GRAZ_02/)
@@ -61,6 +59,8 @@ All the code in my project were written by Weiyu Xue. However, the two parts lis
 
 > MultiSVM Extend
   This is a third party function, it described it self by its own in the file.(by Cody Neuburger cneuburg@fau.edu) Although it only has 20 lines and very simple, it is really useful. 
+
+> Credits to [Professor Hua](http://www.cs.stevens.edu/~ghua/)
 
 ### License
 
